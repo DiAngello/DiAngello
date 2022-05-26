@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá, aqui é Andressa de Souza! 🖖
+### Hi, I'm Andressa de Souza! 🖖
 
-<!--
-**DiAngello/DiAngello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudande de Engenharia de Software - Universidade Católica de Brasília 📖; Amante de café ☕, matemática 🧮 e tecnologias 💻; Desenvolvedora Back-end Junior 👩🏻‍💻.
 
-Here are some ideas to get you started:
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/DiAngello)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/diagello)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/USERNAME/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Gmail-andressa.gabrielly.ofc%40gmail.com-red"/>
+
+[![DiAngello's github stats](https://github-readme-stats.vercel.app/api?username=DiAngello&theme=dracula)](https://github.com/DiAngello/github-readme-stats)
+
+[![DiAngello's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiAngello&theme=dracula)](https://github.com/DiAngello/github-readme-stats)
