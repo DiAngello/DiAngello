@@ -1,6 +1,5 @@
 </p align="center">
 
-<img src="https://www.canva.com/design/DAFF3l4kmus/0udDSZYe21H64grFLm9YsQ/watchutm_content=DAFF3l4kmus&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Bem+vindo+,+aqui+é+DiAngello!+👋;Wellcome+,+there's+DiAngello!+👋)](https://git.io/typing-svg)
 
