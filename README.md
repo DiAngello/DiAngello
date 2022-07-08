@@ -36,4 +36,6 @@
 
 </p>
 <hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
+<p align="center">“Sinto mil capacidades brotarem em mim. Ora sou brejeira, alegre, lânguida, ora melancólica. Tenho raízes, mas sou fluida. Toda dourada, fluindo…”
+- Virginia Woolf </p>
+
