@@ -1,5 +1,5 @@
-</p align="center">
-
+</p align="center"> 
+<img src="https://github.com/DiAngello/DiAngello/blob/main/Design%20sem%20nome.gif"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Bem+vindo+,+aqui+é+DiAngello!+👋;Wellcome+,+there's+DiAngello!+👋)](https://git.io/typing-svg)
 
