@@ -3,7 +3,6 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/DiAngello/DiAngello" /> 
  <img src="https://badges.pufler.dev/commits/monthly/DiAngello"/>
 
 <h2 align="center">Tecnologias/Technology </h2>
