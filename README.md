@@ -1,7 +1,5 @@
-</p align="center"> 
-<img src="https://github.com/DiAngello/DiAngello/blob/main/Design%20sem%20nome.gif"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Bem+vindo+,+aqui+é+DiAngello!+👋;Wellcome+,+there's+DiAngello!+👋)](https://git.io/typing-svg)
+<p align="center"> 
+  <img src="https://github.com/DiAngello/DiAngello/blob/main/Design%20sem%20nome.gif" width="400" height="334"/>
 
 <p align="center">
  
@@ -20,6 +18,8 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=COFFEE!+COFFEE!+COFFEE!)](https://git.io/typing-svg) </p>
 
 <h2 align="center"> Contato/Contact </h2>
 <p align="center">
