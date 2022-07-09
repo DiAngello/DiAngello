@@ -5,7 +5,7 @@
  
  <img src="https://badges.pufler.dev/commits/monthly/DiAngello"/>
 
-<h2 align="center"> Tecnologias que estou estudando/Technologies I'm Studying </h2>
+<h2 align="center"> Tecnologias/Technologies </h2>
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
@@ -19,8 +19,7 @@
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=COFFEE!+COFFEE!+COFFEE!)](https://git.io/typing-svg) </p>
-
+  
 <h2 align="center"> Contato/Contact </h2>
 <p align="center">
 <a href=https://github.com/DiAngello> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
