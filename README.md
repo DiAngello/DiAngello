@@ -28,8 +28,17 @@
 
 <img src="https://img.shields.io/badge/Gmail-andressa.gabrielly.ofc%40gmail.com-red"/>
 
+<h2 align="center"> Estatísticas do meu Github/My Github Stats
+  </h2>
+<br>
+<p align = "center">
 
- 
+[![DiAngello's github stats](https://github-readme-stats.vercel.app/api?username=DiAngello&theme=dracula)](https://github.com/DiAngello/github-readme-stats) 
+
+[![DiAngello's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiAngello&theme=dracula)](https://github.com/DiAngello/github-readme-stats)
+
+</p>
+<hr>
 <p align="center">“Sinto mil capacidades brotarem em mim. Ora sou brejeira, alegre, lânguida, ora melancólica. Tenho raízes, mas sou fluida. Toda dourada, fluindo…”
 - Virginia Woolf </p>
 
