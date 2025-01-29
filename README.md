@@ -1,39 +1,49 @@
-<p align="center"> 
-  <img src="https://github.com/DiAngello/DiAngello/blob/main/Design%20sem%20nome.gif" width="400" height="334"/>
 
-<p align="center">
- 
- <img src="https://badges.pufler.dev/commits/monthly/DiAngello"/>
+![](https://komarev.com/ghpvc/?username=DiAngello&color=006bed)
+# Olá pessoal 👋
 
-<h2 align="center"> Tecnologias/Technologies </h2>
-<p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img scr="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+## Sobre mim
 
-  
-<h2 align="center"> Contato/Contact </h2>
-<p align="center">
-<a href=https://github.com/DiAngello> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<a href=https://www.instagram.com/itsfd.a/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-<a href=https://www.linkedin.com/in/andressa-de-souza-88808721b> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+- 🤔 Explorando novas tecnologias.
+- 🎓 Estudando Engenharia de Software na Universidade Católica de Brasília (UCB).
+- 💼 Estagiária em Desenvolvimento de Sistemas e Painéis Power bi no Tribunal de Contas da União (TCU).
 
-<img src="https://img.shields.io/badge/Gmail-andressa.gabrielly.ofc%40gmail.com-red"/>
+## Minhas Skills
 
-<h2 align="center"> Estatísticas do meu Github/My Github Stats
-  </h2>
-<br>
-<p align = "center">
+**Aplicações e dados**
 
-[![DiAngello's github stats](https://github-readme-stats.vercel.app/api?username=DiAngello&theme=dracula)](https://github.com/DiAngello/github-readme-stats) 
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-[![DiAngello's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiAngello&theme=dracula)](https://github.com/DiAngello/github-readme-stats)
+**DevOps**
 
-</p>
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/DiAngello" title="Perfil">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiAngello&theme=dracula&show_icons=true" />
+</a>
+![Snake animation](https://github.com/DiAngello/DiAngello/blob/output/github-contribution-grid-snake.svg)
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/andressa-de-souza-88808721b)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andressa.gabrielly.ofc@gmail.com)](mailto:andressa.gabrielly.ofc@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/DiAngello)
+
 <hr>
 <p align="center">“Sinto mil capacidades brotarem em mim. Ora sou brejeira, alegre, lânguida, ora melancólica. Tenho raízes, mas sou fluida. Toda dourada, fluindo…”
 - Virginia Woolf </p>
