@@ -32,11 +32,11 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiAngello&theme=dracula&show_icons=true" />
   </a>
 <hr>
+
 <p align="center">
   <img src="https://github.com/DiAngello/DiAngello/blob/main/cat-removebg-preview.png" />
 </p>
 
-<hr>
 <p align="center">“Sinto mil capacidades brotarem em mim. Ora sou brejeira, alegre, lânguida, ora melancólica. Tenho raízes, mas sou fluida. Toda dourada, fluindo…”
 - Virginia Woolf </p>
 
