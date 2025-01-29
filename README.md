@@ -37,12 +37,8 @@
 <hr>
 
 <h3 align="center">Stats</h3>
+![DiAngello's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DiAngello&show_icons=true&theme=radical)
 
-<p align="center">
-  <a href="https://github.com/DiAngello" title="Perfil">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiAngello&theme=dracula&show_icons=true" />
-  </a>
-</p>
 <hr>
 <p align="center">
   <img src="https://github.com/DiAngello/DiAngello/blob/main/cat-removebg-preview.png" />
