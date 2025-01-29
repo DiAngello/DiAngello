@@ -12,7 +12,7 @@
 [![GitHub](https://img.shields.io/github/followers/DiAngello?label=follow&style=social)](https://github.com/DiAngello)
 <hr>
 
-<h3 align="center">Tecnologias e Ferramentas</h3>
+<h3 align="center">Linguagens e Ferramentas</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -37,7 +37,10 @@
 <hr>
 
 <h3 align="center">Stats</h3>
-![DiAngello's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DiAngello&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DiAngello&show_icons=true&theme=radical" alt="DiAngello's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiAngello&layout=compact&theme=radical" alt="DiAngello's Top languages" />
+</p>
 
 <hr>
 <p align="center">
