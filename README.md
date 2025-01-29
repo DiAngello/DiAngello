@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/DiAngello/DiAngello/blob/main/cat-pixelated.gif" />
 
-- 🌱 Atualmente.
+- 🌱 Atualmente explorando novas tecnologias.
 - 🎓 Estudando Engenharia de Software na Universidade Católica de Brasília (UCB).
 - 💼 Estagiária em Desenvolvimento de Sistemas e Painéis Power bi no Tribunal de Contas da União (TCU).
 
