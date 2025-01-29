@@ -2,6 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/DiAngello/DiAngello/blob/main/cat-pixelated.gif" />
 
+### Sobre mim...
 - 🌱 Atualmente explorando novas tecnologias.
 - 🎓 Estudando Engenharia de Software na Universidade Católica de Brasília (UCB).
 - 💼 Estagiária em Desenvolvimento de Sistemas e Painéis Power bi no Tribunal de Contas da União (TCU).
@@ -11,7 +12,7 @@
 [![GitHub](https://img.shields.io/github/followers/DiAngello?label=follow&style=social)](https://github.com/DiAngello)
 <hr>
 
-### Tecnologias e Ferramentas
+<h3 align="center">Tecnologias e Ferramentas</h3>
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -27,12 +28,14 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 <hr>
 
-### Stats
+<h3 align="center">Stats</h3>
+
+<p align="center">
   <a href="https://github.com/DiAngello" title="Perfil">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiAngello&theme=dracula&show_icons=true" />
   </a>
+</p>
 <hr>
-
 <p align="center">
   <img src="https://github.com/DiAngello/DiAngello/blob/main/cat-removebg-preview.png" />
 </p>
