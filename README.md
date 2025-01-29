@@ -13,11 +13,6 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify  🎧
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=nsx8pwcvuii3czv9n2ra62sco&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-<hr>
-
 ### Tecnologias e Ferramentas
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -39,7 +34,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiAngello&theme=dracula&show_icons=true" />
 </a>
 <hr>
-<img src="https://imgur.com/rilHVxA.png"/> 
+<img src="https://github.com/DiAngello/DiAngello/blob/main/cat-removebg-preview.png"/> 
 
 <hr>
 <p align="center">“Sinto mil capacidades brotarem em mim. Ora sou brejeira, alegre, lânguida, ora melancólica. Tenho raízes, mas sou fluida. Toda dourada, fluindo…”
