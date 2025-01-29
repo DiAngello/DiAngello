@@ -1,6 +1,6 @@
-# Olá, Andressa aqui <img alt="GIF" width="30px" height="30" src="https://github.com/DiAngello/DiAngello/blob/main/Hi.gif"/>
+# Olá, Andressa aqui <img alt="GIF" width="30px" height="30" src="https://github.com/DiAngello/DiAngello/blob/main/assets/Hi.gif"/>
 
-<img align="right" alt="GIF" height="160px" src="https://github.com/DiAngello/DiAngello/blob/main/cat-pixelated.gif" />
+<img align="right" alt="GIF" height="160px" src="https://github.com/DiAngello/DiAngello/blob/main/assets/cat-pixelated.gif" />
 
 ### Sobre mim...
 - 🌱 Atualmente explorando novas tecnologias.
@@ -44,7 +44,7 @@
 
 <hr>
 <p align="center">
-  <img src="https://github.com/DiAngello/DiAngello/blob/main/cat-removebg-preview.png" />
+  <img src="https://github.com/DiAngello/DiAngello/blob/main/assets/cat-removebg-preview.png" />
 </p>
 
 <p align="center">“Sinto mil capacidades brotarem em mim. Ora sou brejeira, alegre, lânguida, ora melancólica. Tenho raízes, mas sou fluida. Toda dourada, fluindo…”
