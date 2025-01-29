@@ -1,4 +1,4 @@
-# Olá, Andressa aqui <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Olá, Andressa aqui <img alt="GIF" width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif"/>
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/DiAngello/DiAngello/blob/main/cat-pixelated.gif" />
 
@@ -10,8 +10,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-andressa.gabrielly.ofc@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andressa.gabrielly.ofc@gmail.com)](mailto:andressa.gabrielly.ofc@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/DiAngello?label=follow&style=social)](https://github.com/DiAngello)
 <hr>
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Tecnologias e Ferramentas
 
@@ -29,12 +27,14 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 <hr>
 
-### Meus Stats
-<a href="https://github.com/DiAngello" title="Perfil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiAngello&theme=dracula&show_icons=true" />
-</a>
+### Stats
+  <a href="https://github.com/DiAngello" title="Perfil">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiAngello&theme=dracula&show_icons=true" />
+  </a>
 <hr>
-<img src="https://github.com/DiAngello/DiAngello/blob/main/cat-removebg-preview.png"/> 
+<p align="center">
+  <img src="https://github.com/DiAngello/DiAngello/blob/main/cat-removebg-preview.png" />
+</p>
 
 <hr>
 <p align="center">“Sinto mil capacidades brotarem em mim. Ora sou brejeira, alegre, lânguida, ora melancólica. Tenho raízes, mas sou fluida. Toda dourada, fluindo…”
