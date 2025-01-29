@@ -1,4 +1,4 @@
-# Olá, Andressa aqui <img alt="GIF" width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif"/>
+# Olá, Andressa aqui <img alt="GIF" width="30px" height="30" src="https://github.com/DiAngello/DiAngello/blob/main/Hi.gif"/>
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/DiAngello/DiAngello/blob/main/cat-pixelated.gif" />
 
