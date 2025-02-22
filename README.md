@@ -42,7 +42,9 @@
 <h3 align="center">Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DiAngello&show_icons=true&theme=radical" alt="DiAngello's GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiAngello&layout=compact&theme=radical" alt="DiAngello's Top languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiAngello&hide_progress=true&theme=radical" alt="DiAngello's Top languages" />
 </p>
 
 <hr>
